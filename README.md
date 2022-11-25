@@ -1,2 +1,2 @@
 # PodstawyProgramowania
- 2021/2022
+ Semestr 1
