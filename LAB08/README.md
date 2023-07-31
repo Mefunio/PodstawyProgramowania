@@ -1,0 +1,3 @@
+1.Zaimplementuj strukturę o nazwie zbiorka, która będzie zawierała imię osoby, nazwę grupy oraz kwotę przeznaczoną na zbiórkę.Wykorzystaj tablicę struktur. Użytkownik ma wpisać, ile osób chce dodać oraz niezbędne dane. Po ich wprowadzeniu wyświetl zbiorcze podsumowanie zgodnie z poniższym przykładem: . Przykład: Imie: Ania, Grupa: czerwoni; kwota 25;Imie: Gosia, Grupa: zieloni; kwota 30
+
+2.Napisz  program, w którym utworzysz strukturę kolo posiadającą składowe: numer, nazwa, a,b, oraz r1. Dobierz dla nich odpowiednie typy danych. Utwórz 3 zmienne typu kolo i przypisz im dowolne wartości. Poproś użytkownika o podanie współrzędnych punktu–a,b. Sprawdź, czy podany punkt leży wewnątrz wybranego kola, jeżeli tak, wypisz na ekran nazwę okręgu oraz jego pole. 
